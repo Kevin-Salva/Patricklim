@@ -1,4 +1,4 @@
-package com.company;
+package Patricklim;
 import java.util.Scanner;
 public class ShowStudent {
     public static void main(String[] args) {
@@ -11,5 +11,7 @@ public class ShowStudent {
         int p = sc.nextInt();
         Student s = new Student( );
         System.out.println(s);
+        //kevin's code
+        System.out.println("hello there");
     }
 }
