@@ -1,4 +1,4 @@
-package com.company;
+package Patricklim;
 import java.util.Scanner;
 public class Student
 {
